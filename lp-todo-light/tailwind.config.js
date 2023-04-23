@@ -14,6 +14,9 @@ module.exports = {
       backgroundImage: {
         "mv-bg": "url(/images/mv-bg.jpg)",
       },
+      backgroundPosition: {
+        "mv-bg": "top left 80%",
+      },
     },
   },
   plugins: [],
